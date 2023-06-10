@@ -1,0 +1,29 @@
+.main
+{
+    margin: 10px;
+    padding:10px;
+   
+    
+    text-align: center;
+    
+}
+.labelname
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+}
+.main input
+{
+    margin-bottom: 10px;
+    margin-top: 10px;
+   
+}
+.main button
+{
+    color: black;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: yellow;
+}

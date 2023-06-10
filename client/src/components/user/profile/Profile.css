@@ -1,0 +1,22 @@
+.row
+{
+    width: fit-content;
+}
+.col-2
+{
+   
+    margin-left: 250px;
+    
+    font-size: medium;
+    width: 40%;
+}
+.col-1
+{
+   
+    margin-left:250px;
+}
+.label
+{
+    margin-top: 70px;
+}
+
